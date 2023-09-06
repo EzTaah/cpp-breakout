@@ -1,20 +1,33 @@
-# Breakout
+<div align="center">
 
-A classic breakout game clone.
+
+# classic-breakout
+
+*Developed in July 2023*
+
+<br>
+
+"A classic breakout game clone."    
+Use `Q` to move the paddle left, `D` to move it right and `space` to restart
+
+<br>
+
+This game is developed in C++ using Object-Oriented Programming principles.  It leverages the [raylib](https://www.raylib.com/) library for graphical rendering
+
+<br>
 
 ![Gameplay](https://github.com/EzTaah/cpp-breakout/blob/main/assets/gameplay.gif)
 
+<br>
+<br>
 
-### Controls
-- Use `Q` to move the paddle left and `D` to move it right
-- Press `space` to restart
+</div>
 
 ---
 
 # Building and Development
 
 ## Informations
-- Game developed using the [Raylib](https://www.raylib.com/) library.
 - Your best score is saved to your local storage. You can find it in the following directory:  
 ```C:\Users\USERNAME\AppData\Local```
 
